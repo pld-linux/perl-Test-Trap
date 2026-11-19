@@ -7,13 +7,13 @@
 Summary:	Test::Trap - Trap exit codes, exceptions, output, etc.
 Summary(pl.UTF-8):	Test::Trap - przechwytywanie kodów wyjścia, wyjątków, wyjścia itp.
 Name:		perl-Test-Trap
-Version:	0.3.4
+Version:	0.3.5
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-v%{version}.tar.gz
-# Source0-md5:	7cb432fcb7b8f761e9cc2fc12e76b80b
+# Source0-md5:	6eb90a553c1978b54f5fb599b3804688
 URL:		https://metacpan.org/release/Test-Trap
 BuildRequires:	perl-Module-Build
 BuildRequires:	perl-devel >= 1:5.8.0
